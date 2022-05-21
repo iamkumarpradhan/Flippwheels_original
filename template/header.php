@@ -17,7 +17,7 @@ if ($user_type == 'SELLER') {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Flippwheels</title>
+  <title>Flippwheels : Buy and sell your used automobiles</title>
   
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
